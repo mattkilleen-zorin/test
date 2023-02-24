@@ -1,2 +1,2 @@
 # test
-For testing purposes
+For folder is for testing purposes only.
