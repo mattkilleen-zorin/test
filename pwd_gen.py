@@ -1,3 +1,10 @@
+#!/bin/python3
+#
+#     pwd-gen.py
+#
+#     A bit like the Google Chrome password generator.
+#
+
 import random
 
 sPassword = ""
